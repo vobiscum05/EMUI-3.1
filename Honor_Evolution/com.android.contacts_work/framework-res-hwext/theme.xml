@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+    <!--控制tab字体颜色几种状态颜色值 -->	
+    <color name="emui_tab_title_pressed">#8f3090c7</color>
+    <color name="emui_tab_title_selected">#ff3090c7</color>
+    <color name="emui_tab_title_activated">#ff3090c7</color>
+    <color name="emui_tab_title_normal">#ff3090c7</color>
+
+    
+</resources>
+
